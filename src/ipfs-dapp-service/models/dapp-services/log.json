@@ -1,0 +1,42 @@
+{
+    "name": "log",
+    "port": 13110,
+    "contract":"logservices1",
+    "prettyName": "LiquidLog",
+    "stage": "Beta",
+    "version": "0.9",
+    "description": "Log Service",
+    "commands":{
+        "logevent":{
+            "blocking": false,
+            "request":{
+                "time":"uint64_t",
+                "level":"std::string",
+                "filename":"std::string",
+                "line":"std::string",
+                "func":"std::string",
+                "message":"std::string"
+            },
+            "callback":{
+                "size":"uint64_t",
+                "reciept":"std::string"
+            },
+            "signal":{
+                "size":"uint64_t"
+            }
+        },
+        "logclear":{
+            "blocking": false,
+            "request":{
+                "level":"std::string"
+            },
+            "callback":{
+                "size":"uint64_t",
+                "reciept":"std::string"
+            },
+            "signal":{
+                "size":"uint64_t"
+            }
+        }
+    }
+}

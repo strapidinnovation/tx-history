@@ -1,0 +1,14 @@
+# Target labels
+ dappservices
+# Source files and their labels
+/home/atul/Desktop/Clone_folder/doc-generation/doc-generationContract/ipfs-dapp-service/contracts/eos/CMakeFiles/dappservices
+/home/atul/Desktop/Clone_folder/doc-generation/doc-generationContract/ipfs-dapp-service/contracts/eos/CMakeFiles/dappservices.rule
+/home/atul/Desktop/Clone_folder/doc-generation/doc-generationContract/ipfs-dapp-service/contracts/eos/CMakeFiles/dappservices-complete.rule
+/home/atul/Desktop/Clone_folder/doc-generation/doc-generationContract/ipfs-dapp-service/contracts/eos/dappservices-prefix/src/dappservices-stamp/dappservices-install.rule
+/home/atul/Desktop/Clone_folder/doc-generation/doc-generationContract/ipfs-dapp-service/contracts/eos/dappservices-prefix/src/dappservices-stamp/dappservices-mkdir.rule
+/home/atul/Desktop/Clone_folder/doc-generation/doc-generationContract/ipfs-dapp-service/contracts/eos/dappservices-prefix/src/dappservices-stamp/dappservices-download.rule
+/home/atul/Desktop/Clone_folder/doc-generation/doc-generationContract/ipfs-dapp-service/contracts/eos/dappservices-prefix/src/dappservices-stamp/dappservices-update.rule
+/home/atul/Desktop/Clone_folder/doc-generation/doc-generationContract/ipfs-dapp-service/contracts/eos/dappservices-prefix/src/dappservices-stamp/dappservices-patch.rule
+/home/atul/Desktop/Clone_folder/doc-generation/doc-generationContract/ipfs-dapp-service/contracts/eos/dappservices-prefix/src/dappservices-stamp/dappservices-configure.rule
+/home/atul/Desktop/Clone_folder/doc-generation/doc-generationContract/ipfs-dapp-service/contracts/eos/dappservices-prefix/src/dappservices-stamp/dappservices-build.rule
+/home/atul/Desktop/Clone_folder/doc-generation/doc-generationContract/ipfs-dapp-service/contracts/eos/dappservices-prefix/src/dappservices-stamp/dappservices-test.rule

@@ -1,0 +1,14 @@
+# Target labels
+ logservice
+# Source files and their labels
+/home/atul/Desktop/Clone_folder/doc-generation/doc-generationContract/ipfs-dapp-service/contracts/eos/CMakeFiles/logservice
+/home/atul/Desktop/Clone_folder/doc-generation/doc-generationContract/ipfs-dapp-service/contracts/eos/CMakeFiles/logservice.rule
+/home/atul/Desktop/Clone_folder/doc-generation/doc-generationContract/ipfs-dapp-service/contracts/eos/CMakeFiles/logservice-complete.rule
+/home/atul/Desktop/Clone_folder/doc-generation/doc-generationContract/ipfs-dapp-service/contracts/eos/logservice-prefix/src/logservice-stamp/logservice-install.rule
+/home/atul/Desktop/Clone_folder/doc-generation/doc-generationContract/ipfs-dapp-service/contracts/eos/logservice-prefix/src/logservice-stamp/logservice-mkdir.rule
+/home/atul/Desktop/Clone_folder/doc-generation/doc-generationContract/ipfs-dapp-service/contracts/eos/logservice-prefix/src/logservice-stamp/logservice-download.rule
+/home/atul/Desktop/Clone_folder/doc-generation/doc-generationContract/ipfs-dapp-service/contracts/eos/logservice-prefix/src/logservice-stamp/logservice-update.rule
+/home/atul/Desktop/Clone_folder/doc-generation/doc-generationContract/ipfs-dapp-service/contracts/eos/logservice-prefix/src/logservice-stamp/logservice-patch.rule
+/home/atul/Desktop/Clone_folder/doc-generation/doc-generationContract/ipfs-dapp-service/contracts/eos/logservice-prefix/src/logservice-stamp/logservice-configure.rule
+/home/atul/Desktop/Clone_folder/doc-generation/doc-generationContract/ipfs-dapp-service/contracts/eos/logservice-prefix/src/logservice-stamp/logservice-build.rule
+/home/atul/Desktop/Clone_folder/doc-generation/doc-generationContract/ipfs-dapp-service/contracts/eos/logservice-prefix/src/logservice-stamp/logservice-test.rule

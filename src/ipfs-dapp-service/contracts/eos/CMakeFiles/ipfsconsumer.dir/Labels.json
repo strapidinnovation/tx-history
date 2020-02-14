@@ -1,0 +1,46 @@
+{
+	"sources" : 
+	[
+		{
+			"file" : "/home/atul/Desktop/Clone_folder/doc-generation/doc-generationContract/ipfs-dapp-service/contracts/eos/CMakeFiles/ipfsconsumer"
+		},
+		{
+			"file" : "/home/atul/Desktop/Clone_folder/doc-generation/doc-generationContract/ipfs-dapp-service/contracts/eos/CMakeFiles/ipfsconsumer.rule"
+		},
+		{
+			"file" : "/home/atul/Desktop/Clone_folder/doc-generation/doc-generationContract/ipfs-dapp-service/contracts/eos/CMakeFiles/ipfsconsumer-complete.rule"
+		},
+		{
+			"file" : "/home/atul/Desktop/Clone_folder/doc-generation/doc-generationContract/ipfs-dapp-service/contracts/eos/ipfsconsumer-prefix/src/ipfsconsumer-stamp/ipfsconsumer-install.rule"
+		},
+		{
+			"file" : "/home/atul/Desktop/Clone_folder/doc-generation/doc-generationContract/ipfs-dapp-service/contracts/eos/ipfsconsumer-prefix/src/ipfsconsumer-stamp/ipfsconsumer-mkdir.rule"
+		},
+		{
+			"file" : "/home/atul/Desktop/Clone_folder/doc-generation/doc-generationContract/ipfs-dapp-service/contracts/eos/ipfsconsumer-prefix/src/ipfsconsumer-stamp/ipfsconsumer-download.rule"
+		},
+		{
+			"file" : "/home/atul/Desktop/Clone_folder/doc-generation/doc-generationContract/ipfs-dapp-service/contracts/eos/ipfsconsumer-prefix/src/ipfsconsumer-stamp/ipfsconsumer-update.rule"
+		},
+		{
+			"file" : "/home/atul/Desktop/Clone_folder/doc-generation/doc-generationContract/ipfs-dapp-service/contracts/eos/ipfsconsumer-prefix/src/ipfsconsumer-stamp/ipfsconsumer-patch.rule"
+		},
+		{
+			"file" : "/home/atul/Desktop/Clone_folder/doc-generation/doc-generationContract/ipfs-dapp-service/contracts/eos/ipfsconsumer-prefix/src/ipfsconsumer-stamp/ipfsconsumer-configure.rule"
+		},
+		{
+			"file" : "/home/atul/Desktop/Clone_folder/doc-generation/doc-generationContract/ipfs-dapp-service/contracts/eos/ipfsconsumer-prefix/src/ipfsconsumer-stamp/ipfsconsumer-build.rule"
+		},
+		{
+			"file" : "/home/atul/Desktop/Clone_folder/doc-generation/doc-generationContract/ipfs-dapp-service/contracts/eos/ipfsconsumer-prefix/src/ipfsconsumer-stamp/ipfsconsumer-test.rule"
+		}
+	],
+	"target" : 
+	{
+		"labels" : 
+		[
+			"ipfsconsumer"
+		],
+		"name" : "ipfsconsumer"
+	}
+}

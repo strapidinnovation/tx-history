@@ -1,0 +1,14 @@
+# Target labels
+ logconsumer
+# Source files and their labels
+/home/atul/Desktop/Clone_folder/doc-generation/doc-generationContract/ipfs-dapp-service/contracts/eos/CMakeFiles/logconsumer
+/home/atul/Desktop/Clone_folder/doc-generation/doc-generationContract/ipfs-dapp-service/contracts/eos/CMakeFiles/logconsumer.rule
+/home/atul/Desktop/Clone_folder/doc-generation/doc-generationContract/ipfs-dapp-service/contracts/eos/CMakeFiles/logconsumer-complete.rule
+/home/atul/Desktop/Clone_folder/doc-generation/doc-generationContract/ipfs-dapp-service/contracts/eos/logconsumer-prefix/src/logconsumer-stamp/logconsumer-install.rule
+/home/atul/Desktop/Clone_folder/doc-generation/doc-generationContract/ipfs-dapp-service/contracts/eos/logconsumer-prefix/src/logconsumer-stamp/logconsumer-mkdir.rule
+/home/atul/Desktop/Clone_folder/doc-generation/doc-generationContract/ipfs-dapp-service/contracts/eos/logconsumer-prefix/src/logconsumer-stamp/logconsumer-download.rule
+/home/atul/Desktop/Clone_folder/doc-generation/doc-generationContract/ipfs-dapp-service/contracts/eos/logconsumer-prefix/src/logconsumer-stamp/logconsumer-update.rule
+/home/atul/Desktop/Clone_folder/doc-generation/doc-generationContract/ipfs-dapp-service/contracts/eos/logconsumer-prefix/src/logconsumer-stamp/logconsumer-patch.rule
+/home/atul/Desktop/Clone_folder/doc-generation/doc-generationContract/ipfs-dapp-service/contracts/eos/logconsumer-prefix/src/logconsumer-stamp/logconsumer-configure.rule
+/home/atul/Desktop/Clone_folder/doc-generation/doc-generationContract/ipfs-dapp-service/contracts/eos/logconsumer-prefix/src/logconsumer-stamp/logconsumer-build.rule
+/home/atul/Desktop/Clone_folder/doc-generation/doc-generationContract/ipfs-dapp-service/contracts/eos/logconsumer-prefix/src/logconsumer-stamp/logconsumer-test.rule

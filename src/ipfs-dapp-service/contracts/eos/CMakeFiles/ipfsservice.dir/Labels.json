@@ -1,0 +1,46 @@
+{
+	"sources" : 
+	[
+		{
+			"file" : "/home/atul/Desktop/Clone_folder/doc-generation/doc-generationContract/ipfs-dapp-service/contracts/eos/CMakeFiles/ipfsservice"
+		},
+		{
+			"file" : "/home/atul/Desktop/Clone_folder/doc-generation/doc-generationContract/ipfs-dapp-service/contracts/eos/CMakeFiles/ipfsservice.rule"
+		},
+		{
+			"file" : "/home/atul/Desktop/Clone_folder/doc-generation/doc-generationContract/ipfs-dapp-service/contracts/eos/CMakeFiles/ipfsservice-complete.rule"
+		},
+		{
+			"file" : "/home/atul/Desktop/Clone_folder/doc-generation/doc-generationContract/ipfs-dapp-service/contracts/eos/ipfsservice-prefix/src/ipfsservice-stamp/ipfsservice-install.rule"
+		},
+		{
+			"file" : "/home/atul/Desktop/Clone_folder/doc-generation/doc-generationContract/ipfs-dapp-service/contracts/eos/ipfsservice-prefix/src/ipfsservice-stamp/ipfsservice-mkdir.rule"
+		},
+		{
+			"file" : "/home/atul/Desktop/Clone_folder/doc-generation/doc-generationContract/ipfs-dapp-service/contracts/eos/ipfsservice-prefix/src/ipfsservice-stamp/ipfsservice-download.rule"
+		},
+		{
+			"file" : "/home/atul/Desktop/Clone_folder/doc-generation/doc-generationContract/ipfs-dapp-service/contracts/eos/ipfsservice-prefix/src/ipfsservice-stamp/ipfsservice-update.rule"
+		},
+		{
+			"file" : "/home/atul/Desktop/Clone_folder/doc-generation/doc-generationContract/ipfs-dapp-service/contracts/eos/ipfsservice-prefix/src/ipfsservice-stamp/ipfsservice-patch.rule"
+		},
+		{
+			"file" : "/home/atul/Desktop/Clone_folder/doc-generation/doc-generationContract/ipfs-dapp-service/contracts/eos/ipfsservice-prefix/src/ipfsservice-stamp/ipfsservice-configure.rule"
+		},
+		{
+			"file" : "/home/atul/Desktop/Clone_folder/doc-generation/doc-generationContract/ipfs-dapp-service/contracts/eos/ipfsservice-prefix/src/ipfsservice-stamp/ipfsservice-build.rule"
+		},
+		{
+			"file" : "/home/atul/Desktop/Clone_folder/doc-generation/doc-generationContract/ipfs-dapp-service/contracts/eos/ipfsservice-prefix/src/ipfsservice-stamp/ipfsservice-test.rule"
+		}
+	],
+	"target" : 
+	{
+		"labels" : 
+		[
+			"ipfsservice"
+		],
+		"name" : "ipfsservice"
+	}
+}

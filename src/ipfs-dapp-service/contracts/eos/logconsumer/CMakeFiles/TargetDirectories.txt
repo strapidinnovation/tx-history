@@ -1,0 +1,3 @@
+/home/atul/Desktop/Clone_folder/doc-generation/doc-generationContract/ipfs-dapp-service/contracts/eos/logconsumer/CMakeFiles/rebuild_cache.dir
+/home/atul/Desktop/Clone_folder/doc-generation/doc-generationContract/ipfs-dapp-service/contracts/eos/logconsumer/CMakeFiles/logconsumer.dir
+/home/atul/Desktop/Clone_folder/doc-generation/doc-generationContract/ipfs-dapp-service/contracts/eos/logconsumer/CMakeFiles/edit_cache.dir

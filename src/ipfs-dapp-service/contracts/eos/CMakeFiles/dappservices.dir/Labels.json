@@ -1,0 +1,46 @@
+{
+	"sources" : 
+	[
+		{
+			"file" : "/home/atul/Desktop/Clone_folder/doc-generation/doc-generationContract/ipfs-dapp-service/contracts/eos/CMakeFiles/dappservices"
+		},
+		{
+			"file" : "/home/atul/Desktop/Clone_folder/doc-generation/doc-generationContract/ipfs-dapp-service/contracts/eos/CMakeFiles/dappservices.rule"
+		},
+		{
+			"file" : "/home/atul/Desktop/Clone_folder/doc-generation/doc-generationContract/ipfs-dapp-service/contracts/eos/CMakeFiles/dappservices-complete.rule"
+		},
+		{
+			"file" : "/home/atul/Desktop/Clone_folder/doc-generation/doc-generationContract/ipfs-dapp-service/contracts/eos/dappservices-prefix/src/dappservices-stamp/dappservices-install.rule"
+		},
+		{
+			"file" : "/home/atul/Desktop/Clone_folder/doc-generation/doc-generationContract/ipfs-dapp-service/contracts/eos/dappservices-prefix/src/dappservices-stamp/dappservices-mkdir.rule"
+		},
+		{
+			"file" : "/home/atul/Desktop/Clone_folder/doc-generation/doc-generationContract/ipfs-dapp-service/contracts/eos/dappservices-prefix/src/dappservices-stamp/dappservices-download.rule"
+		},
+		{
+			"file" : "/home/atul/Desktop/Clone_folder/doc-generation/doc-generationContract/ipfs-dapp-service/contracts/eos/dappservices-prefix/src/dappservices-stamp/dappservices-update.rule"
+		},
+		{
+			"file" : "/home/atul/Desktop/Clone_folder/doc-generation/doc-generationContract/ipfs-dapp-service/contracts/eos/dappservices-prefix/src/dappservices-stamp/dappservices-patch.rule"
+		},
+		{
+			"file" : "/home/atul/Desktop/Clone_folder/doc-generation/doc-generationContract/ipfs-dapp-service/contracts/eos/dappservices-prefix/src/dappservices-stamp/dappservices-configure.rule"
+		},
+		{
+			"file" : "/home/atul/Desktop/Clone_folder/doc-generation/doc-generationContract/ipfs-dapp-service/contracts/eos/dappservices-prefix/src/dappservices-stamp/dappservices-build.rule"
+		},
+		{
+			"file" : "/home/atul/Desktop/Clone_folder/doc-generation/doc-generationContract/ipfs-dapp-service/contracts/eos/dappservices-prefix/src/dappservices-stamp/dappservices-test.rule"
+		}
+	],
+	"target" : 
+	{
+		"labels" : 
+		[
+			"dappservices"
+		],
+		"name" : "dappservices"
+	}
+}

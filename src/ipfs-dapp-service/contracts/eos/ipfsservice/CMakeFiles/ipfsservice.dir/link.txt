@@ -1,0 +1,1 @@
+/usr/bin/eosio-ld  CMakeFiles/ipfsservice.dir/ipfsservice.cpp.obj -o ipfsservice.wasm 

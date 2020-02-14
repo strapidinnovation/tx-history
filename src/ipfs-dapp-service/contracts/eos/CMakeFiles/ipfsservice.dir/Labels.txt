@@ -1,0 +1,14 @@
+# Target labels
+ ipfsservice
+# Source files and their labels
+/home/atul/Desktop/Clone_folder/doc-generation/doc-generationContract/ipfs-dapp-service/contracts/eos/CMakeFiles/ipfsservice
+/home/atul/Desktop/Clone_folder/doc-generation/doc-generationContract/ipfs-dapp-service/contracts/eos/CMakeFiles/ipfsservice.rule
+/home/atul/Desktop/Clone_folder/doc-generation/doc-generationContract/ipfs-dapp-service/contracts/eos/CMakeFiles/ipfsservice-complete.rule
+/home/atul/Desktop/Clone_folder/doc-generation/doc-generationContract/ipfs-dapp-service/contracts/eos/ipfsservice-prefix/src/ipfsservice-stamp/ipfsservice-install.rule
+/home/atul/Desktop/Clone_folder/doc-generation/doc-generationContract/ipfs-dapp-service/contracts/eos/ipfsservice-prefix/src/ipfsservice-stamp/ipfsservice-mkdir.rule
+/home/atul/Desktop/Clone_folder/doc-generation/doc-generationContract/ipfs-dapp-service/contracts/eos/ipfsservice-prefix/src/ipfsservice-stamp/ipfsservice-download.rule
+/home/atul/Desktop/Clone_folder/doc-generation/doc-generationContract/ipfs-dapp-service/contracts/eos/ipfsservice-prefix/src/ipfsservice-stamp/ipfsservice-update.rule
+/home/atul/Desktop/Clone_folder/doc-generation/doc-generationContract/ipfs-dapp-service/contracts/eos/ipfsservice-prefix/src/ipfsservice-stamp/ipfsservice-patch.rule
+/home/atul/Desktop/Clone_folder/doc-generation/doc-generationContract/ipfs-dapp-service/contracts/eos/ipfsservice-prefix/src/ipfsservice-stamp/ipfsservice-configure.rule
+/home/atul/Desktop/Clone_folder/doc-generation/doc-generationContract/ipfs-dapp-service/contracts/eos/ipfsservice-prefix/src/ipfsservice-stamp/ipfsservice-build.rule
+/home/atul/Desktop/Clone_folder/doc-generation/doc-generationContract/ipfs-dapp-service/contracts/eos/ipfsservice-prefix/src/ipfsservice-stamp/ipfsservice-test.rule

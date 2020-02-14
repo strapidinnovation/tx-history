@@ -1,0 +1,1 @@
+/usr/bin/eosio-ld  CMakeFiles/logservice.dir/logservice.cpp.obj -o logservice.wasm 

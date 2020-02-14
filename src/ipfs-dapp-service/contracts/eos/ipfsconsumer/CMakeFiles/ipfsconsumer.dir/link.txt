@@ -1,0 +1,1 @@
+/usr/bin/eosio-ld  CMakeFiles/ipfsconsumer.dir/ipfsconsumer.cpp.obj -o ipfsconsumer.wasm 

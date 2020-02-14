@@ -1,0 +1,14 @@
+# Target labels
+ ipfsconsumer
+# Source files and their labels
+/home/atul/Desktop/Clone_folder/doc-generation/doc-generationContract/ipfs-dapp-service/contracts/eos/CMakeFiles/ipfsconsumer
+/home/atul/Desktop/Clone_folder/doc-generation/doc-generationContract/ipfs-dapp-service/contracts/eos/CMakeFiles/ipfsconsumer.rule
+/home/atul/Desktop/Clone_folder/doc-generation/doc-generationContract/ipfs-dapp-service/contracts/eos/CMakeFiles/ipfsconsumer-complete.rule
+/home/atul/Desktop/Clone_folder/doc-generation/doc-generationContract/ipfs-dapp-service/contracts/eos/ipfsconsumer-prefix/src/ipfsconsumer-stamp/ipfsconsumer-install.rule
+/home/atul/Desktop/Clone_folder/doc-generation/doc-generationContract/ipfs-dapp-service/contracts/eos/ipfsconsumer-prefix/src/ipfsconsumer-stamp/ipfsconsumer-mkdir.rule
+/home/atul/Desktop/Clone_folder/doc-generation/doc-generationContract/ipfs-dapp-service/contracts/eos/ipfsconsumer-prefix/src/ipfsconsumer-stamp/ipfsconsumer-download.rule
+/home/atul/Desktop/Clone_folder/doc-generation/doc-generationContract/ipfs-dapp-service/contracts/eos/ipfsconsumer-prefix/src/ipfsconsumer-stamp/ipfsconsumer-update.rule
+/home/atul/Desktop/Clone_folder/doc-generation/doc-generationContract/ipfs-dapp-service/contracts/eos/ipfsconsumer-prefix/src/ipfsconsumer-stamp/ipfsconsumer-patch.rule
+/home/atul/Desktop/Clone_folder/doc-generation/doc-generationContract/ipfs-dapp-service/contracts/eos/ipfsconsumer-prefix/src/ipfsconsumer-stamp/ipfsconsumer-configure.rule
+/home/atul/Desktop/Clone_folder/doc-generation/doc-generationContract/ipfs-dapp-service/contracts/eos/ipfsconsumer-prefix/src/ipfsconsumer-stamp/ipfsconsumer-build.rule
+/home/atul/Desktop/Clone_folder/doc-generation/doc-generationContract/ipfs-dapp-service/contracts/eos/ipfsconsumer-prefix/src/ipfsconsumer-stamp/ipfsconsumer-test.rule

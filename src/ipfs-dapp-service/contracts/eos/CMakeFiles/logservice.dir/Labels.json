@@ -1,0 +1,46 @@
+{
+	"sources" : 
+	[
+		{
+			"file" : "/home/atul/Desktop/Clone_folder/doc-generation/doc-generationContract/ipfs-dapp-service/contracts/eos/CMakeFiles/logservice"
+		},
+		{
+			"file" : "/home/atul/Desktop/Clone_folder/doc-generation/doc-generationContract/ipfs-dapp-service/contracts/eos/CMakeFiles/logservice.rule"
+		},
+		{
+			"file" : "/home/atul/Desktop/Clone_folder/doc-generation/doc-generationContract/ipfs-dapp-service/contracts/eos/CMakeFiles/logservice-complete.rule"
+		},
+		{
+			"file" : "/home/atul/Desktop/Clone_folder/doc-generation/doc-generationContract/ipfs-dapp-service/contracts/eos/logservice-prefix/src/logservice-stamp/logservice-install.rule"
+		},
+		{
+			"file" : "/home/atul/Desktop/Clone_folder/doc-generation/doc-generationContract/ipfs-dapp-service/contracts/eos/logservice-prefix/src/logservice-stamp/logservice-mkdir.rule"
+		},
+		{
+			"file" : "/home/atul/Desktop/Clone_folder/doc-generation/doc-generationContract/ipfs-dapp-service/contracts/eos/logservice-prefix/src/logservice-stamp/logservice-download.rule"
+		},
+		{
+			"file" : "/home/atul/Desktop/Clone_folder/doc-generation/doc-generationContract/ipfs-dapp-service/contracts/eos/logservice-prefix/src/logservice-stamp/logservice-update.rule"
+		},
+		{
+			"file" : "/home/atul/Desktop/Clone_folder/doc-generation/doc-generationContract/ipfs-dapp-service/contracts/eos/logservice-prefix/src/logservice-stamp/logservice-patch.rule"
+		},
+		{
+			"file" : "/home/atul/Desktop/Clone_folder/doc-generation/doc-generationContract/ipfs-dapp-service/contracts/eos/logservice-prefix/src/logservice-stamp/logservice-configure.rule"
+		},
+		{
+			"file" : "/home/atul/Desktop/Clone_folder/doc-generation/doc-generationContract/ipfs-dapp-service/contracts/eos/logservice-prefix/src/logservice-stamp/logservice-build.rule"
+		},
+		{
+			"file" : "/home/atul/Desktop/Clone_folder/doc-generation/doc-generationContract/ipfs-dapp-service/contracts/eos/logservice-prefix/src/logservice-stamp/logservice-test.rule"
+		}
+	],
+	"target" : 
+	{
+		"labels" : 
+		[
+			"logservice"
+		],
+		"name" : "logservice"
+	}
+}

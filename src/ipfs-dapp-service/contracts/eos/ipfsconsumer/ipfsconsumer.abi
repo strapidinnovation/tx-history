@@ -1,0 +1,402 @@
+{
+    "____comment": "This file was generated with eosio-abigen. DO NOT EDIT ",
+    "version": "eosio::abi/1.1",
+    "types": [],
+    "structs": [
+        {
+            "name": "increment",
+            "base": "",
+            "fields": [
+                {
+                    "name": "somenumber",
+                    "type": "uint32"
+                }
+            ]
+        },
+        {
+            "name": "ipfsentry",
+            "base": "",
+            "fields": [
+                {
+                    "name": "id",
+                    "type": "uint64"
+                },
+                {
+                    "name": "data",
+                    "type": "bytes"
+                }
+            ]
+        },
+        {
+            "name": "testcollide",
+            "base": "",
+            "fields": [
+                {
+                    "name": "id",
+                    "type": "uint64"
+                },
+                {
+                    "name": "value",
+                    "type": "uint64"
+                }
+            ]
+        },
+        {
+            "name": "testdelay",
+            "base": "",
+            "fields": [
+                {
+                    "name": "id",
+                    "type": "uint64"
+                },
+                {
+                    "name": "value",
+                    "type": "uint64"
+                },
+                {
+                    "name": "delay_sec",
+                    "type": "uint32"
+                }
+            ]
+        },
+        {
+            "name": "testempty",
+            "base": "",
+            "fields": [
+                {
+                    "name": "uri",
+                    "type": "string"
+                }
+            ]
+        },
+        {
+            "name": "testentry",
+            "base": "",
+            "fields": [
+                {
+                    "name": "field1",
+                    "type": "uint64"
+                },
+                {
+                    "name": "field2",
+                    "type": "bytes"
+                },
+                {
+                    "name": "field3",
+                    "type": "uint64"
+                }
+            ]
+        },
+        {
+            "name": "testget",
+            "base": "",
+            "fields": [
+                {
+                    "name": "uri",
+                    "type": "string"
+                },
+                {
+                    "name": "expectedfield",
+                    "type": "uint32"
+                }
+            ]
+        },
+        {
+            "name": "testindex",
+            "base": "",
+            "fields": [
+                {
+                    "name": "id",
+                    "type": "uint64"
+                },
+                {
+                    "name": "sometestnumber",
+                    "type": "uint64"
+                }
+            ]
+        },
+        {
+            "name": "testindex_shardbucket",
+            "base": "",
+            "fields": [
+                {
+                    "name": "shard_uri",
+                    "type": "bytes"
+                },
+                {
+                    "name": "shard",
+                    "type": "uint64"
+                }
+            ]
+        },
+        {
+            "name": "testindexa",
+            "base": "",
+            "fields": [
+                {
+                    "name": "id",
+                    "type": "uint64"
+                }
+            ]
+        },
+        {
+            "name": "testresize",
+            "base": "",
+            "fields": []
+        },
+        {
+            "name": "testset",
+            "base": "",
+            "fields": [
+                {
+                    "name": "data",
+                    "type": "testentry"
+                }
+            ]
+        },
+        {
+            "name": "vconfig",
+            "base": "",
+            "fields": [
+                {
+                    "name": "next_available_key",
+                    "type": "uint64"
+                },
+                {
+                    "name": "shards",
+                    "type": "uint32"
+                },
+                {
+                    "name": "buckets_per_shard",
+                    "type": "uint32"
+                }
+            ]
+        },
+        {
+            "name": "xcleanup",
+            "base": "",
+            "fields": [
+                {
+                    "name": "current_provider",
+                    "type": "name"
+                },
+                {
+                    "name": "package",
+                    "type": "name"
+                },
+                {
+                    "name": "size",
+                    "type": "uint32"
+                },
+                {
+                    "name": "uri",
+                    "type": "string"
+                }
+            ]
+        },
+        {
+            "name": "xcommit",
+            "base": "",
+            "fields": [
+                {
+                    "name": "current_provider",
+                    "type": "name"
+                },
+                {
+                    "name": "package",
+                    "type": "name"
+                },
+                {
+                    "name": "size",
+                    "type": "uint32"
+                },
+                {
+                    "name": "uri",
+                    "type": "string"
+                }
+            ]
+        },
+        {
+            "name": "xdcommit",
+            "base": "",
+            "fields": [
+                {
+                    "name": "data",
+                    "type": "bytes"
+                }
+            ]
+        },
+        {
+            "name": "xsignal",
+            "base": "",
+            "fields": [
+                {
+                    "name": "service",
+                    "type": "name"
+                },
+                {
+                    "name": "action",
+                    "type": "name"
+                },
+                {
+                    "name": "provider",
+                    "type": "name"
+                },
+                {
+                    "name": "package",
+                    "type": "name"
+                },
+                {
+                    "name": "signalRawData",
+                    "type": "bytes"
+                }
+            ]
+        },
+        {
+            "name": "xwarmup",
+            "base": "",
+            "fields": [
+                {
+                    "name": "current_provider",
+                    "type": "name"
+                },
+                {
+                    "name": "package",
+                    "type": "name"
+                },
+                {
+                    "name": "size",
+                    "type": "uint32"
+                },
+                {
+                    "name": "uri",
+                    "type": "string"
+                },
+                {
+                    "name": "data",
+                    "type": "bytes"
+                }
+            ]
+        }
+    ],
+    "actions": [
+        {
+            "name": "increment",
+            "type": "increment",
+            "ricardian_contract": ""
+        },
+        {
+            "name": "testcollide",
+            "type": "testcollide",
+            "ricardian_contract": ""
+        },
+        {
+            "name": "testdelay",
+            "type": "testdelay",
+            "ricardian_contract": ""
+        },
+        {
+            "name": "testempty",
+            "type": "testempty",
+            "ricardian_contract": ""
+        },
+        {
+            "name": "testget",
+            "type": "testget",
+            "ricardian_contract": ""
+        },
+        {
+            "name": "testindexa",
+            "type": "testindexa",
+            "ricardian_contract": ""
+        },
+        {
+            "name": "testresize",
+            "type": "testresize",
+            "ricardian_contract": ""
+        },
+        {
+            "name": "testset",
+            "type": "testset",
+            "ricardian_contract": ""
+        },
+        {
+            "name": "xcleanup",
+            "type": "xcleanup",
+            "ricardian_contract": ""
+        },
+        {
+            "name": "xcommit",
+            "type": "xcommit",
+            "ricardian_contract": ""
+        },
+        {
+            "name": "xdcommit",
+            "type": "xdcommit",
+            "ricardian_contract": ""
+        },
+        {
+            "name": "xsignal",
+            "type": "xsignal",
+            "ricardian_contract": ""
+        },
+        {
+            "name": "xwarmup",
+            "type": "xwarmup",
+            "ricardian_contract": ""
+        }
+    ],
+    "tables": [
+        {
+            "name": ".test",
+            "type": "testindex",
+            "index_type": "i64",
+            "key_names": [],
+            "key_types": []
+        },
+        {
+            "name": ".test1",
+            "type": "testindex",
+            "index_type": "i64",
+            "key_names": [],
+            "key_types": []
+        },
+        {
+            "name": ".vconfig",
+            "type": "vconfig",
+            "index_type": "i64",
+            "key_names": [],
+            "key_types": []
+        },
+        {
+            "name": "ipfsentry",
+            "type": "ipfsentry",
+            "index_type": "i64",
+            "key_names": [],
+            "key_types": []
+        },
+        {
+            "name": "test",
+            "type": "testindex_shardbucket",
+            "index_type": "i64",
+            "key_names": [],
+            "key_types": []
+        },
+        {
+            "name": "test1",
+            "type": "testindex_shardbucket",
+            "index_type": "i64",
+            "key_names": [],
+            "key_types": []
+        },
+        {
+            "name": "testentry",
+            "type": "testentry",
+            "index_type": "i64",
+            "key_names": [],
+            "key_types": []
+        }
+    ],
+    "ricardian_clauses": [],
+    "variants": []
+}

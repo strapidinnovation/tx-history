@@ -1,0 +1,19 @@
+{
+    "keep": {
+        "days": false,
+        "amount": 5
+    },
+    "auditLog": "logs/.2d6b6e3cfbc97c03e1ea1ddd22b7fdc44c47d3dc-audit.json",
+    "files": [
+        {
+            "date": 1576820570433,
+            "name": "logs/pprovider1-ipfs-service-2019-12-20.log",
+            "hash": "552af67a262610a27e3060187daa82ab"
+        },
+        {
+            "date": 1577355660521,
+            "name": "logs/pprovider1-ipfs-service-2019-12-26.log",
+            "hash": "3863ee7abfa0d7fb9169f7eb529ec039"
+        }
+    ]
+}

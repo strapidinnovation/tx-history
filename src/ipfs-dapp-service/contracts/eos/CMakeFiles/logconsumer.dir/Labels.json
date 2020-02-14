@@ -1,0 +1,46 @@
+{
+	"sources" : 
+	[
+		{
+			"file" : "/home/atul/Desktop/Clone_folder/doc-generation/doc-generationContract/ipfs-dapp-service/contracts/eos/CMakeFiles/logconsumer"
+		},
+		{
+			"file" : "/home/atul/Desktop/Clone_folder/doc-generation/doc-generationContract/ipfs-dapp-service/contracts/eos/CMakeFiles/logconsumer.rule"
+		},
+		{
+			"file" : "/home/atul/Desktop/Clone_folder/doc-generation/doc-generationContract/ipfs-dapp-service/contracts/eos/CMakeFiles/logconsumer-complete.rule"
+		},
+		{
+			"file" : "/home/atul/Desktop/Clone_folder/doc-generation/doc-generationContract/ipfs-dapp-service/contracts/eos/logconsumer-prefix/src/logconsumer-stamp/logconsumer-install.rule"
+		},
+		{
+			"file" : "/home/atul/Desktop/Clone_folder/doc-generation/doc-generationContract/ipfs-dapp-service/contracts/eos/logconsumer-prefix/src/logconsumer-stamp/logconsumer-mkdir.rule"
+		},
+		{
+			"file" : "/home/atul/Desktop/Clone_folder/doc-generation/doc-generationContract/ipfs-dapp-service/contracts/eos/logconsumer-prefix/src/logconsumer-stamp/logconsumer-download.rule"
+		},
+		{
+			"file" : "/home/atul/Desktop/Clone_folder/doc-generation/doc-generationContract/ipfs-dapp-service/contracts/eos/logconsumer-prefix/src/logconsumer-stamp/logconsumer-update.rule"
+		},
+		{
+			"file" : "/home/atul/Desktop/Clone_folder/doc-generation/doc-generationContract/ipfs-dapp-service/contracts/eos/logconsumer-prefix/src/logconsumer-stamp/logconsumer-patch.rule"
+		},
+		{
+			"file" : "/home/atul/Desktop/Clone_folder/doc-generation/doc-generationContract/ipfs-dapp-service/contracts/eos/logconsumer-prefix/src/logconsumer-stamp/logconsumer-configure.rule"
+		},
+		{
+			"file" : "/home/atul/Desktop/Clone_folder/doc-generation/doc-generationContract/ipfs-dapp-service/contracts/eos/logconsumer-prefix/src/logconsumer-stamp/logconsumer-build.rule"
+		},
+		{
+			"file" : "/home/atul/Desktop/Clone_folder/doc-generation/doc-generationContract/ipfs-dapp-service/contracts/eos/logconsumer-prefix/src/logconsumer-stamp/logconsumer-test.rule"
+		}
+	],
+	"target" : 
+	{
+		"labels" : 
+		[
+			"logconsumer"
+		],
+		"name" : "logconsumer"
+	}
+}

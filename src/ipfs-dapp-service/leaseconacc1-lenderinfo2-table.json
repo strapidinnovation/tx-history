@@ -1,0 +1,77 @@
+[
+  {
+    "scope": "leaseconacc1",
+    "key": "2048986e4f37a7db",
+    "data": {
+      "sequence": "15832324704273620401",
+      "username": "vinninvin142",
+      "balance": "5.0000 EOS",
+      "max_lease_period": 30,
+      "vote_choice": "leaseproxy11",
+      "last_lease_out": "1970-01-01T00:00:00.000",
+      "total_leaseout_amount": "0.0000 EOS",
+      "total_reward_amount": "0.0000 EOS",
+      "initial_transfer": true
+    }
+  },
+  {
+    "scope": "leaseconacc1",
+    "key": "900c46c76c37a7db",
+    "data": {
+      "sequence": "15827820967203052977",
+      "username": "vinnivabcsad",
+      "balance": "20.0000 EOS",
+      "max_lease_period": 21,
+      "vote_choice": "leaseproxy22",
+      "last_lease_out": "1970-01-01T00:00:00.000",
+      "total_leaseout_amount": "0.0000 EOS",
+      "total_reward_amount": "0.0000 EOS",
+      "initial_transfer": true
+    }
+  },
+  {
+    "scope": "leaseconacc1",
+    "key": "3044986e4fb7a7db",
+    "data": {
+      "sequence": "15832324704273620401",
+      "username": "vinvinvin123",
+      "balance": "10.0000 EOS",
+      "max_lease_period": 30,
+      "vote_choice": "leaseproxy22",
+      "last_lease_out": "1970-01-01T00:00:00.000",
+      "total_leaseout_amount": "0.0000 EOS",
+      "total_reward_amount": "0.0000 EOS",
+      "initial_transfer": true
+    }
+  },
+  {
+    "scope": "leaseconacc1",
+    "key": "2044be266388683c",
+    "data": {
+      "sequence": "15832324704273620401",
+      "username": "blockstart22",
+      "balance": "10.0000 EOS",
+      "max_lease_period": 7,
+      "vote_choice": "leaseproxy22",
+      "last_lease_out": "1970-01-01T00:00:00.000",
+      "total_leaseout_amount": "0.0000 EOS",
+      "total_reward_amount": "0.0000 EOS",
+      "initial_transfer": false
+    }
+  },
+  {
+    "scope": "leaseconacc1",
+    "key": "3044984e6e37a7db",
+    "data": {
+      "sequence": "15832324704273620401",
+      "username": "vinnivmin123",
+      "balance": "5.0000 EOS",
+      "max_lease_period": 30,
+      "vote_choice": "leaseproxy11",
+      "last_lease_out": "1970-01-01T00:00:00.000",
+      "total_leaseout_amount": "0.0000 EOS",
+      "total_reward_amount": "0.0000 EOS",
+      "initial_transfer": false
+    }
+  }
+]
